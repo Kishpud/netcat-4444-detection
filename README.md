@@ -66,14 +66,12 @@ It demonstrates real-world SOC detection skills useful in identifying unauthoriz
 ---
 
 ### Zeek Logs Showing Port 4444 Activity
-Screenshot from 2025-08-04 22-07-20.png 
+<img src="Screenshot from 2025-08-04 22-07-20.png" width="700"/>
 
 ---
 
 ### Elastic/Kibana Dashboards
-
-Screenshot from 2025-08-04 22-23-06.png
----
+<img src="Screenshot from 2025-08-04 22-23-06.png" width="700"/>---
 
 ## 📈 Why This Matters (Blue Team Relevance)
 
