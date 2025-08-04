@@ -61,10 +61,9 @@ It demonstrates real-world SOC detection skills useful in identifying unauthoriz
 ## 📸 Screenshots
 
 ### Windows Machine (Reverse Shell Trigger)
-<img src="Screenshot 2025-08-05 at 8.13.24 am.png" width="700"/>
+<img src="Screenshot.png" width="700"/>
 
 ---
-
 ### Zeek Logs Showing Port 4444 Activity
 <img src="Screenshot from 2025-08-04 22-07-20.png" width="700"/>
 
